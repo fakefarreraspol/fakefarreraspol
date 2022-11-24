@@ -7,10 +7,10 @@
 
 
 ## Contact me 📫
-[<img align="left" alt="fakefarreraspol | Twitter" width="30px" src="https://img.icons8.com/color/344/twitter--v1.png" />][twitter]
-[<img align="left" alt="fakefarreraspol | Artstation" width="30px" src="https://img.icons8.com/color/344/artstation.png" />][artstation]
-[<img align="left" alt="fakefarreraspol | Discord" width="30px" src="https://img.icons8.com/color/344/discord-logo.png" />][discord]
-[<img align="left" alt="fakefarreraspol | Linkedin" width="30px" src="https://img.icons8.com/color/344/linkedin.png" />][linkedin]
+<img align="left" alt="fakefarreraspol | Twitter" width="30px" src="https://img.icons8.com/color/344/twitter--v1.png" />
+<img align="left" alt="fakefarreraspol | Artstation" width="30px" src="https://img.icons8.com/color/344/artstation.png" />
+<img align="left" alt="fakefarreraspol | Discord" width="30px" src="https://img.icons8.com/color/344/discord-logo.png" />
+<img align="left" alt="fakefarreraspol | Linkedin" width="30px" src="https://img.icons8.com/color/344/linkedin.png" />
 
 
 <br>
