@@ -1,4 +1,4 @@
-# Hi, I'm Pol! 👋
+# Welcome! 
 
 - 🌱 Studying Videogame Design and Development at CITM(UPC).
 - ✈️ Looking to travel around the world.
