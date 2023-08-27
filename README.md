@@ -9,7 +9,7 @@
 ## Contact me 📫
 
 <img align="left" alt="https://www.linkedin.com/in/farreraspol" width="30px" src="https://img.icons8.com/color/344/linkedin.png" />
-[![Foo](https://img.icons8.com/color/344/linkedin.png)](https://www.linkedin.com/in/farreraspol)
+
 
 <br>
 <br>
