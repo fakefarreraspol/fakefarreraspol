@@ -8,7 +8,7 @@
 
 ## Contact me 📫
 
-<img align="left" alt="https://www.linkedin.com/in/farreraspol" width="30px" src="https://img.icons8.com/color/344/linkedin.png" />
+[<img align="left" alt="fakefarreraspol | Linkedin" width="30px" src="https://img.icons8.com/color/344/linkedin.png" />][linkedin]
 
 
 <br>
@@ -51,4 +51,4 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-
+[linkedin]: https://www.linkedin.com/in/farreraspol
