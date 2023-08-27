@@ -7,9 +7,8 @@
 
 
 ## Contact me 📫
-<img align="left" alt="fakefarreraspol | Twitter" width="30px" src="https://img.icons8.com/color/344/twitter--v1.png" />
-<img align="left" alt="fakefarreraspol | Discord" width="30px" src="https://img.icons8.com/color/344/discord-logo.png" />
-<img align="left" alt="fakefarreraspol | Linkedin" width="30px" src="https://img.icons8.com/color/344/linkedin.png" />
+
+<img align="left" alt="https://www.linkedin.com/in/farreraspol" width="30px" src="https://img.icons8.com/color/344/linkedin.png" />
 
 
 <br>
