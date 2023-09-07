@@ -13,7 +13,7 @@
 <br>
 <br>
 
-## I know but I'm still learning... 🪄
+## I know but I'm still learning... 
 <img align="left" alt="C" width="30px" src="https://img.icons8.com/color/344/c-programming.png"/>
 
 <img align="left" alt="C" width="30px" src="https://img.icons8.com/color/344/c-sharp-logo.png"/>
@@ -43,7 +43,11 @@
 <img align="left" alt="C" width="30px" src="https://img.icons8.com/dusk/512/aseprite.png"/>
 
 
+<br>
+<br>
 
+## Check-out my portfolio! 🔧
+https://fakefarreraspol.github.io/
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
