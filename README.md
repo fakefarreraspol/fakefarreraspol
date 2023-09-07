@@ -1,8 +1,7 @@
-# Welcome! 
+# Hey! 
 
-- 🌱 Studying Videogame Design and Development at CITM(UPC).
-- ✈️ Looking to travel around the world.
-- 🕹️ Interested in getting an Internship in the video games industry.
+- 🌱 I'm currently studying Videogame Design and Development at CITM(UPC).
+- 🕹️ I'm interested in getting an Internship in the video games industry.
 
 
 
@@ -14,7 +13,7 @@
 <br>
 <br>
 
-## I'm learning... 🪄
+## I know but I'm still learning... 🪄
 <img align="left" alt="C" width="30px" src="https://img.icons8.com/color/344/c-programming.png"/>
 
 <img align="left" alt="C" width="30px" src="https://img.icons8.com/color/344/c-sharp-logo.png"/>
