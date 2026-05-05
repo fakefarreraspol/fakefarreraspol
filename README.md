@@ -1,8 +1,5 @@
 # Hey! 
 
-- 🌱 I'm currently studying Videogame Design and Development at CITM(UPC).
-- 🕹️ I'm interested in getting an Internship in the video games industry.
-
 
 
 ## Contact me 📫
@@ -13,12 +10,10 @@
 <br>
 <br>
 
-## I know but I'm still learning... 
-<img align="left" alt="C" width="30px" src="https://img.icons8.com/color/344/c-programming.png"/>
+## I'm learning... 
+<img align="left" alt="Rust" width="30px" src="https://img.icons8.com/?size=100&id=t7vIvDXazOGO&format=png&color=000000"/>
 
-<img align="left" alt="C" width="30px" src="https://img.icons8.com/color/344/c-sharp-logo.png"/>
 
-<img align="left" alt="C" width="30px" src="https://img.icons8.com/color/344/c-plus-plus-logo.png"/>
 
 
 
@@ -26,21 +21,19 @@
 <br>
 
 ## Tools I use 🔧
-<img align="left" alt= "C++" width = "30px" src = "https://img.icons8.com/color/344/github--v1.png"/>
+<img align="left" alt= "C++" width = "30px" src = "https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000"/>
 
-<img align="left" alt="C" width="30px" src="https://img.icons8.com/color/344/unity.png"/>
+<img align="left" alt="Unreal" width="30px" src="https://img.icons8.com/?size=100&id=69503&format=png&color=000000"/>
 
-<img align="left" alt="C" width="30px" src="https://img.icons8.com/color/344/visual-studio--v2.png"/>
+<img align="left" alt= "Python" width = "30px" src = "https://img.icons8.com/?size=100&id=13441&format=png&color=000000"/>
 
-<img align="left" alt="C" width="30px" src="https://img.icons8.com/color/344/autodesk-maya.png"/>
+<img align="left" alt="Blender" width="30px" src="https://img.icons8.com/?size=100&id=KDGdN57NLSJa&format=png&color=000000"/>
 
-<img align="left" alt="C" width="30px" src="https://img.icons8.com/color/344/adobe-photoshop--v1.png"/>
+<img align="left" alt= "Git" width = "30px" src = "https://img.icons8.com/?size=100&id=20906&format=png&color=000000"/>
 
-<img align="left" alt="C" width="30px" src="https://img.icons8.com/color/344/adobe-illustrator--v1.png"/>
+<img align="left" alt="Unity" width="30px" src="https://img.icons8.com/color/344/unity.png"/>
 
-<img align="left" alt="C" width="30px" src="https://img.icons8.com/color/344/adobe-premiere-pro--v1.png"/>
-
-<img align="left" alt="C" width="30px" src="https://img.icons8.com/dusk/512/aseprite.png"/>
+<img align="left" alt="Linux" width="30px" src="https://img.icons8.com/?size=100&id=HF4xGsjDERHf&format=png&color=000000"/>
 
 
 <br>
